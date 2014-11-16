@@ -1,11 +1,11 @@
-PCBNEW-LibModule-V1  15/11/2014 20:10:12
+PCBNEW-LibModule-V1  16/11/2014 22:05:05
 # encoding utf-8
 Units mm
 $INDEX
 CC3200
 $EndINDEX
 $MODULE CC3200
-Po 0 0 0 15 54678A61 00000000 ~~
+Po 0 0 0 15 54691175 00000000 ~~
 Li CC3200
 Sc 0
 AR 
@@ -355,56 +355,56 @@ Ne 0 ""
 Po 3.75 -4.75
 $EndPAD
 $PAD
-Sh "17" O 0.3 1.5 0 0 0
+Sh "16" O 0.3 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 3.75 4.75
 $EndPAD
 $PAD
-Sh "16" O 0.3 1.5 0 0 0
+Sh "15" O 0.3 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 3.25 4.75
 $EndPAD
 $PAD
-Sh "14" O 0.3 1.5 0 0 0
+Sh "13" O 0.3 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.25 4.75
 $EndPAD
 $PAD
-Sh "15" O 0.3 1.5 0 0 0
+Sh "14" O 0.3 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.75 4.75
 $EndPAD
 $PAD
-Sh "11" O 0.3 1.5 0 0 0
+Sh "10" O 0.3 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.75 4.75
 $EndPAD
 $PAD
-Sh "10" O 0.3 1.5 0 0 0
+Sh "9" O 0.3 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.25 4.75
 $EndPAD
 $PAD
-Sh "12" O 0.3 1.5 0 0 0
+Sh "11" O 0.3 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.25 4.75
 $EndPAD
 $PAD
-Sh "13" O 0.3 1.5 0 0 0
+Sh "12" O 0.3 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
