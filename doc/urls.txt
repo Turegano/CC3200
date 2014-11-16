@@ -1,0 +1,2 @@
+http://www.ti.com/lit/ds/symlink/cc3200.pdf
+http://processors.wiki.ti.com/index.php/CC32xx_Out_of_Box_Application
